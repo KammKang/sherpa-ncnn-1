@@ -2,7 +2,7 @@
 
 You can use `sherpa-ncnn` for **real-time** speech recognition (i.e., speech-to-text)
 on
-
+ 
   - Linux
   - macOS
   - Windows
@@ -39,6 +39,6 @@ with `sherpa-ncnn` using a microphone:
   - `Chinese (with background noise)` Android demo : <https://www.bilibili.com/video/BV1GR4y167fx>
   - `Chinese` Android demo : <https://www.bilibili.com/video/BV1744y1Z76H>
   - `Chinese poem with background music` Android demo : <https://www.bilibili.com/video/BV1vR4y1k7eo>
-
-
+	
+delete file
 See also <https://github.com/k2-fsa/sherpa>
